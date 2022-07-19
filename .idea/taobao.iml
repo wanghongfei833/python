@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/fastMRI-main" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1a临时文件夹/SCWSSOD-f8650567cbbc8df5bf6edc32a633c47a885574cd" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1a临时文件夹/e2e_verification-master" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/temp_dirs/SCWSSOD-f8650567cbbc8df5bf6edc32a633c47a885574cd" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/temp_dirs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/temp_dirs/ring-signatures-master/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/temp_dirs/acnn-k-space-master" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/temp_dirs/transform_bclok替换/TransFG-master/models" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.8 (base)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
